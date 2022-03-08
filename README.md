@@ -1,0 +1,1 @@
+Here i will post the solutins of the kata from CodeWars.com
